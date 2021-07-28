@@ -40,4 +40,4 @@ Saved as Lenna_hooi.png
 The numbers denotes the residual. Suppose X is the original tensor and XP is the approximated tensor. Then residula r is defined by r = |X - XP|/|X|, where |X| denotes the Frobenius norm of X. 
 
 ## Insights from varying the compression ratio
-HOOI has been implemented with minor changes in the syntax of the code. As one can observe, the changes in the compression ratio which given as the second argument makes a lot of difference in the output image. The differnce in the output images can be observed at r = 0.6, 0.2, as well as 0.01.
+HOOI has been implemented with minor changes in the syntax of the code. As one can observe, the changes in the compression ratio which given as the second argument makes a lot of difference in the output image. The difference in the output images can be observed at r = 0.6, 0.2, as well as 0.01.
