@@ -1,7 +1,7 @@
 # hooi_code
 
 ## About
-This repository is adapted from  [Hiroshi Watanabe's implementation](https://github.com/kaityo256/hooi_sample) of HOOI, for the purpose of deliverying a presentation and demonstrating Higher Order Orthogonal Interation of Tensors(Multi-linear Subspace Learning) in the National Student TechTalk Series (Session - 11) organized by the Computer Society of India (Trivandrum Chapter).
+This repository is adapted from  [Hiroshi Watanabe's implementation](https://github.com/kaityo256/hooi_sample) of HOOI, for the purpose of deliverying a presentation and demonstrating Higher Order Orthogonal Interation of Tensors (Multi-linear Subspace Learning) in the National Student TechTalk Series (Session - 11) organized by the Computer Society of India (Trivandrum Chapter).
 
 
 ## Summary
